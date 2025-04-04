@@ -71,6 +71,13 @@ nonce=1234567890abcdef
 status=REPLAYED_OTP
 -->
 
+---
+
+# Use case (contd.)
+
+## Quarkus + Qute (no CSS :D )
+
+demo-yubikey
 
 ---
 
@@ -87,7 +94,9 @@ status=REPLAYED_OTP
 
 # Links (contd.)
 
+* https://www.yubico.com/works-with-yubikey/catalog/?sort=popular
 * https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing
+* https://en.m.wikipedia.org/wiki/Sun_Ray
 
 ---
 
